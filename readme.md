@@ -28,9 +28,9 @@ The goal isn't just to finish a course — it's to actually understand ML from t
 
 ### Phase 2 — Setting Up the ML Environment
 - [x] Installing Anaconda
-- [ ] Conda Prompt
-- [ ] Installing Jupyter Notebook
-- [ ] Installing Jupyter Lab
+- [x] Conda Prompt
+- [x] Installing Jupyter Notebook
+- [x] Installing Jupyter Lab
 
 **Status: In Progress 🔄**
 
